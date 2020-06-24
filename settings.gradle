@@ -1,0 +1,2 @@
+rootProject.name='Pidz App'
+include ':app'
